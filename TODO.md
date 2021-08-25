@@ -1,0 +1,23 @@
+- [ ] private fork
+- [ ] private infr-test repo
+- [ ] grant access or create fake GH account
+- [ ] dockerize devops practical
+- [ ] compose?
+- [ ] README
+- [ ] run locally in README
+- [ ] create helm chart for thingy with mongo support
+- [ ] README for helm usage
+- [ ] terraform for vpc,eks etc
+- [ ] terraform for route53
+- [ ] version terraform, include many ways to install
+- [ ] terraform README
+- [ ] flux
+- [ ] ingress
+- [ ] letsencrypt
+- [ ] service mesh?
+- [ ] node autoscaler
+- [ ] helmrelease to deploy app
+- [ ] POD horizontial autoscaling
+- [ ] POD vertical autoscaling
+- [ ] test load
+- [ ] cluster vulnerability scanner
